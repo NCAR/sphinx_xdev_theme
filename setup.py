@@ -38,7 +38,7 @@ setup(
         ]
     },
     install_requires=[
-       'sphinx', 'sphinx_rtd_theme'
+       'sphinx==1.8.4'
     ],
     classifiers=[
         'Framework :: Sphinx',
